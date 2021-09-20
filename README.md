@@ -11,6 +11,7 @@ How to use it and modify it
 Sample website with plenty of files for demos
 ## How to contribute
 
+please fork this repository and then issue pull
 # Deployment
 THis is a simple web project,deployment can be on any web server or even local file system
 
